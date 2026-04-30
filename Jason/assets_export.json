@@ -1,0 +1,2496 @@
+{
+  "data": [
+    {
+      "id": "329",
+      "type": "asset",
+      "attributes": {
+        "name": "Inkeroinen",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "16.9",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "331",
+      "type": "asset",
+      "attributes": {
+        "name": "Kelukoski",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "9.8",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "333",
+      "type": "asset",
+      "attributes": {
+        "name": "Kurittukoski",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "15.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "391",
+      "type": "asset",
+      "attributes": {
+        "name": "REG|GoO|CZTKC|F01050100",
+        "disabled": false,
+        "inventory_eligibility_group_name": "GoO Hydro 2025",
+        "tags": [
+          "#demo"
+        ],
+        "capacity": null,
+        "ownership_percentage": null,
+        "has_obligations_for_allocation": true,
+        "has_inventory_for_allocation": false,
+        "asset_type": "Account",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "398",
+      "type": "asset",
+      "attributes": {
+        "name": "REG|GoO|MGGM6|F01010201",
+        "disabled": false,
+        "inventory_eligibility_group_name": "GoO Bio 2025",
+        "tags": [
+          "#demo"
+        ],
+        "capacity": null,
+        "ownership_percentage": null,
+        "has_obligations_for_allocation": true,
+        "has_inventory_for_allocation": false,
+        "asset_type": "Account",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "F01010201",
+            "name": "Renewable / Solid / Industrial and commercial waste / Biogenic"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "399",
+      "type": "asset",
+      "attributes": {
+        "name": "REG|GoO|MGGM6|F01010301",
+        "disabled": false,
+        "inventory_eligibility_group_name": "GoO Bio 2025",
+        "tags": [
+          "#demo"
+        ],
+        "capacity": null,
+        "ownership_percentage": null,
+        "has_obligations_for_allocation": true,
+        "has_inventory_for_allocation": false,
+        "asset_type": "Account",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "F01010301",
+            "name": "Renewable / Solid / Wood / Forestry products"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "400",
+      "type": "asset",
+      "attributes": {
+        "name": "REG|GoO|MGGM6|F01010000",
+        "disabled": false,
+        "inventory_eligibility_group_name": "GoO Bio 2025",
+        "tags": [
+          "#demo"
+        ],
+        "capacity": null,
+        "ownership_percentage": null,
+        "has_obligations_for_allocation": true,
+        "has_inventory_for_allocation": false,
+        "asset_type": "Account",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "F01010000",
+            "name": "Renewable / Solid"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "401",
+      "type": "asset",
+      "attributes": {
+        "name": "REG|GoO|RIYWS|F01030601",
+        "disabled": false,
+        "inventory_eligibility_group_name": "GoO Bio 2025",
+        "tags": [
+          "#demo"
+        ],
+        "capacity": null,
+        "ownership_percentage": null,
+        "has_obligations_for_allocation": true,
+        "has_inventory_for_allocation": false,
+        "asset_type": "Account",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "F01030601",
+            "name": "Renewable / Gaseous / Bionaturalgas / Biomethane"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "325",
+      "type": "asset",
+      "attributes": {
+        "name": "Aittokoski",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "45.7",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "327",
+      "type": "asset",
+      "attributes": {
+        "name": "Anjalankoski",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "22.7",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "335",
+      "type": "asset",
+      "attributes": {
+        "name": "Leppikoski",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "21.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "337",
+      "type": "asset",
+      "attributes": {
+        "name": "Matarakoski",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "11.14",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "339",
+      "type": "asset",
+      "attributes": {
+        "name": "Nuojua",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "85.2",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "341",
+      "type": "asset",
+      "attributes": {
+        "name": "P\u00e4lli",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "51.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "343",
+      "type": "asset",
+      "attributes": {
+        "name": "Permantokoski",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "12.65",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "347",
+      "type": "asset",
+      "attributes": {
+        "name": "Pyh\u00e4koski",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "146.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "345",
+      "type": "asset",
+      "attributes": {
+        "name": "Pirttikoski",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "152.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "349",
+      "type": "asset",
+      "attributes": {
+        "name": "Seitenoikea",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "39.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "350",
+      "type": "asset",
+      "attributes": {
+        "name": "Tainionkoski",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "65.5",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "351",
+      "type": "asset",
+      "attributes": {
+        "name": "Taivalkoski",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "134.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "353",
+      "type": "asset",
+      "attributes": {
+        "name": "Vajukoski",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "21.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "355",
+      "type": "asset",
+      "attributes": {
+        "name": "Vanttauskoski",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "95.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "424",
+      "type": "asset",
+      "attributes": {
+        "name": "REG|GoO|OCHTE|F01050200-2026",
+        "disabled": false,
+        "inventory_eligibility_group_name": "GoO Hydro 2026",
+        "tags": [
+          "#demo"
+        ],
+        "capacity": null,
+        "ownership_percentage": null,
+        "has_obligations_for_allocation": true,
+        "has_inventory_for_allocation": false,
+        "asset_type": "Account",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "457",
+      "type": "asset",
+      "attributes": {
+        "name": "TB Flats Wind Farm",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "503.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {
+          "TSO / ISO / Grid Operator": "WECC / PacifiCorp Transmission (PACE)",
+          "Market / Balancing Area": "WECC \u2014 Rocky Mountain / PACE",
+          "Carbon / Emissions Program": "Wyoming no state carbon price; Federal IRA PTC (Production Tax Credit); WY RPS (voluntary)",
+          "Carbon Mechanism": "Federal PTC (IRA 2022) + WECC REC"
+        },
+        "products": [],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "458",
+      "type": "asset",
+      "attributes": {
+        "name": "Ekola Flats Wind Farm",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "250.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {
+          "TSO / ISO / Grid Operator": "WECC / PacifiCorp Transmission (PACE)",
+          "Market / Balancing Area": "WECC \u2014 Rocky Mountain / PACE",
+          "Carbon / Emissions Program": "Federal IRA PTC; WY voluntary RPS",
+          "Carbon Mechanism": "Federal PTC (IRA 2022) + WECC REC"
+        },
+        "products": [
+          {
+            "short_name": "WREGIS.WND",
+            "name": "WREGIS Wind Rec"
+          },
+          {
+            "short_name": "F.GEN.PST.M",
+            "name": "Generation Forecast PST Monthly"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": {
+            "id": "475",
+            "type": "address"
+          }
+        }
+      }
+    },
+    {
+      "id": "459",
+      "type": "asset",
+      "attributes": {
+        "name": "Cedar Springs I Wind Farm",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "201.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {
+          "TSO / ISO / Grid Operator": "WECC / PacifiCorp Transmission (PACE)",
+          "Market / Balancing Area": "WECC \u2014 Rocky Mountain / PACE",
+          "Carbon / Emissions Program": "Federal IRA PTC; WY voluntary RPS",
+          "Carbon Mechanism": "Federal PTC (IRA 2022) + WECC REC"
+        },
+        "products": [
+          {
+            "short_name": "WREGIS.WND",
+            "name": "WREGIS Wind Rec"
+          },
+          {
+            "short_name": "F.GEN.PST.M",
+            "name": "Generation Forecast PST Monthly"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": {
+            "id": "476",
+            "type": "address"
+          }
+        }
+      }
+    },
+    {
+      "id": "460",
+      "type": "asset",
+      "attributes": {
+        "name": "Cedar Springs II Wind Farm",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "199.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {
+          "TSO / ISO / Grid Operator": "WECC / PacifiCorp Transmission (PACE)",
+          "Market / Balancing Area": "WECC \u2014 Rocky Mountain / PACE",
+          "Carbon / Emissions Program": "Federal IRA PTC; WY voluntary RPS",
+          "Carbon Mechanism": "Federal PTC (IRA 2022) + WECC REC"
+        },
+        "products": [],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": {
+            "id": "472",
+            "type": "address"
+          }
+        }
+      }
+    },
+    {
+      "id": "461",
+      "type": "asset",
+      "attributes": {
+        "name": "Pryor Mountain Wind Farm",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "240.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {},
+        "products": [],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": {
+            "id": "457",
+            "type": "address"
+          }
+        }
+      }
+    },
+    {
+      "id": "462",
+      "type": "asset",
+      "attributes": {
+        "name": "Dunlap I Wind Farm (Repowered)",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "111.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {},
+        "products": [],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": {
+            "id": "458",
+            "type": "address"
+          }
+        }
+      }
+    },
+    {
+      "id": "463",
+      "type": "asset",
+      "attributes": {
+        "name": "Leaning Juniper I Wind Farm",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "100.5",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {},
+        "products": [],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": {
+            "id": "459",
+            "type": "address"
+          }
+        }
+      }
+    },
+    {
+      "id": "464",
+      "type": "asset",
+      "attributes": {
+        "name": "Foote Creek I Wind Farm (Repowered)",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "41.4",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {},
+        "products": [],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": {
+            "id": "460",
+            "type": "address"
+          }
+        }
+      }
+    },
+    {
+      "id": "465",
+      "type": "asset",
+      "attributes": {
+        "name": "Biglow Canyon Wind Farm (I\u2013III)",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "450.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {},
+        "products": [],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": {
+            "id": "461",
+            "type": "address"
+          }
+        }
+      }
+    },
+    {
+      "id": "466",
+      "type": "asset",
+      "attributes": {
+        "name": "Blundell Geothermal / Black Cap Solar",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "2.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {},
+        "products": [],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": {
+            "id": "462",
+            "type": "address"
+          }
+        }
+      }
+    },
+    {
+      "id": "467",
+      "type": "asset",
+      "attributes": {
+        "name": "Red Hills Renewable Energy Park",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "80.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {},
+        "products": [],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": {
+            "id": "463",
+            "type": "address"
+          }
+        }
+      }
+    },
+    {
+      "id": "468",
+      "type": "asset",
+      "attributes": {
+        "name": "Foote Creek Solar (Bridger Solar) \u2014 Utah cluster",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "900.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {},
+        "products": [],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": {
+            "id": "464",
+            "type": "address"
+          }
+        }
+      }
+    },
+    {
+      "id": "469",
+      "type": "asset",
+      "attributes": {
+        "name": "Lewis River \u2014 Swift No. 1",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "240.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {
+          "TSO / ISO / Grid Operator": "WECC / BPA",
+          "Market / Balancing Area": "WECC \u2014 Northwest / BPA",
+          "Carbon / Emissions Program": "WA Cap-and-Invest (CCI) program; Federal FERC license P-2111; WECC REC",
+          "Carbon Mechanism": "WA State Cap-and-Trade (CCI) + WECC REC"
+        },
+        "products": [
+          {
+            "short_name": "WREGIS.H20",
+            "name": "WREGIS SO1 Rec"
+          },
+          {
+            "short_name": "F.GEN.PST.M",
+            "name": "Generation Forecast PST Monthly"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": {
+            "id": "477",
+            "type": "address"
+          }
+        }
+      }
+    },
+    {
+      "id": "470",
+      "type": "asset",
+      "attributes": {
+        "name": "Lewis River \u2014 Yale",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "134.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {
+          "TSO / ISO / Grid Operator": "WECC / BPA",
+          "Market / Balancing Area": "WECC \u2014 Northwest / BPA",
+          "Carbon / Emissions Program": "WA Cap-and-Invest (CCI); FERC license P-2071; WECC REC",
+          "Carbon Mechanism": "WA State Cap-and-Trade (CCI) + WECC REC"
+        },
+        "products": [
+          {
+            "short_name": "WREGIS.H20",
+            "name": "WREGIS SO1 Rec"
+          },
+          {
+            "short_name": "F.GEN.PST.M",
+            "name": "Generation Forecast PST Monthly"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": {
+            "id": "478",
+            "type": "address"
+          }
+        }
+      }
+    },
+    {
+      "id": "471",
+      "type": "asset",
+      "attributes": {
+        "name": "North Umpqua Hydroelectric Project",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "194.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "WREGIS.H20",
+            "name": "WREGIS SO1 Rec"
+          },
+          {
+            "short_name": "F.GEN.PST.M",
+            "name": "Generation Forecast PST Monthly"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": {
+            "id": "479",
+            "type": "address"
+          }
+        }
+      }
+    },
+    {
+      "id": "394",
+      "type": "asset",
+      "attributes": {
+        "name": "REG|GoO|FHBF[|F03010100",
+        "disabled": false,
+        "inventory_eligibility_group_name": "GoO Nuclear 2025",
+        "tags": [
+          "#demo"
+        ],
+        "capacity": null,
+        "ownership_percentage": null,
+        "has_obligations_for_allocation": true,
+        "has_inventory_for_allocation": false,
+        "asset_type": "Account",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "F03010100",
+            "name": "Nuclear / Solid / Radioactive fuel"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "395",
+      "type": "asset",
+      "attributes": {
+        "name": "REG|GoO|JXAFQ|F01050100",
+        "disabled": false,
+        "inventory_eligibility_group_name": "GoO Wind 2025",
+        "tags": [
+          "#demo"
+        ],
+        "capacity": null,
+        "ownership_percentage": null,
+        "has_obligations_for_allocation": true,
+        "has_inventory_for_allocation": false,
+        "asset_type": "Account",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "F01050100",
+            "name": "Renewable / Mechanical source or other / Wind"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "396",
+      "type": "asset",
+      "attributes": {
+        "name": "REG|GoO|MGGM6|F01010300",
+        "disabled": false,
+        "inventory_eligibility_group_name": "GoO Bio 2025",
+        "tags": [
+          "#demo"
+        ],
+        "capacity": null,
+        "ownership_percentage": null,
+        "has_obligations_for_allocation": true,
+        "has_inventory_for_allocation": false,
+        "asset_type": "Account",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "F01010300",
+            "name": "Renewable / Solid / Wood"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "397",
+      "type": "asset",
+      "attributes": {
+        "name": "REG|GoO|MGGM6|F01010302",
+        "disabled": false,
+        "inventory_eligibility_group_name": "GoO Bio 2025",
+        "tags": [
+          "#demo"
+        ],
+        "capacity": null,
+        "ownership_percentage": null,
+        "has_obligations_for_allocation": true,
+        "has_inventory_for_allocation": false,
+        "asset_type": "Account",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "F01010302",
+            "name": "Renewable / Solid / Wood / Forestry by-products & waste"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "326",
+      "type": "asset",
+      "attributes": {
+        "name": "\u00c4mm\u00e4",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "16.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "328",
+      "type": "asset",
+      "attributes": {
+        "name": "Imatra",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "192.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "330",
+      "type": "asset",
+      "attributes": {
+        "name": "Jylh\u00e4m\u00e4",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "55.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "332",
+      "type": "asset",
+      "attributes": {
+        "name": "Kokkosniva",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "26.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "334",
+      "type": "asset",
+      "attributes": {
+        "name": "Kurkiaska",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "26.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "336",
+      "type": "asset",
+      "attributes": {
+        "name": "Lieksankoski",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "16.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "338",
+      "type": "asset",
+      "attributes": {
+        "name": "Montta",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "49.8",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "340",
+      "type": "asset",
+      "attributes": {
+        "name": "Ossauskoski",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "124.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "342",
+      "type": "asset",
+      "attributes": {
+        "name": "Pankakoski",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "15.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "346",
+      "type": "asset",
+      "attributes": {
+        "name": "Porttipahta",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "35.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "344",
+      "type": "asset",
+      "attributes": {
+        "name": "Pet\u00e4j\u00e4skoski",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "182.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "348",
+      "type": "asset",
+      "attributes": {
+        "name": "Seitakorva",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "144.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "352",
+      "type": "asset",
+      "attributes": {
+        "name": "Utanen",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "58.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "354",
+      "type": "asset",
+      "attributes": {
+        "name": "Valajaskoski",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "101.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "356",
+      "type": "asset",
+      "attributes": {
+        "name": "Aittokoski",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "45.7",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "357",
+      "type": "asset",
+      "attributes": {
+        "name": "\u00c4mm\u00e4",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "16.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "G.MTH.FI",
+            "name": "Generation Monthly Finland"
+          },
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "472",
+      "type": "asset",
+      "attributes": {
+        "name": "Bear River Hydroelectric Project",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": "77.0",
+        "ownership_percentage": "100.0",
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": true,
+        "asset_type": "Generation",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "WREGIS.H20",
+            "name": "WREGIS SO1 Rec"
+          },
+          {
+            "short_name": "F.GEN.PST.M",
+            "name": "Generation Forecast PST Monthly"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": {
+            "id": "480",
+            "type": "address"
+          }
+        }
+      }
+    },
+    {
+      "id": "402",
+      "type": "asset",
+      "attributes": {
+        "name": "xxxx",
+        "disabled": false,
+        "inventory_eligibility_group_name": null,
+        "tags": [
+          "#demo"
+        ],
+        "capacity": null,
+        "ownership_percentage": null,
+        "has_obligations_for_allocation": false,
+        "has_inventory_for_allocation": false,
+        "asset_type": "Account",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "393",
+      "type": "asset",
+      "attributes": {
+        "name": "REG|GoO|RIYWS|F01050200",
+        "disabled": false,
+        "inventory_eligibility_group_name": "GoO Hydro 2025",
+        "tags": [
+          "#demo"
+        ],
+        "capacity": null,
+        "ownership_percentage": null,
+        "has_obligations_for_allocation": true,
+        "has_inventory_for_allocation": false,
+        "asset_type": "Account",
+        "portfolios": [],
+        "technologies": [
+          "Hydro"
+        ],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "392",
+      "type": "asset",
+      "attributes": {
+        "name": "REG|GoO|OCHTE|F01050200-2025",
+        "disabled": false,
+        "inventory_eligibility_group_name": "GoO Hydro 2025",
+        "tags": [
+          "#demo"
+        ],
+        "capacity": null,
+        "ownership_percentage": null,
+        "has_obligations_for_allocation": true,
+        "has_inventory_for_allocation": false,
+        "asset_type": "Account",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "F01050200",
+            "name": "Renewable / Mechanical source or other / Hydro & marine"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": "473",
+      "type": "asset",
+      "attributes": {
+        "name": "WREGIS:WIND:2026",
+        "disabled": false,
+        "inventory_eligibility_group_name": "REC:WREGIS:WIND:2026",
+        "tags": [
+          "#Generation"
+        ],
+        "capacity": null,
+        "ownership_percentage": null,
+        "has_obligations_for_allocation": true,
+        "has_inventory_for_allocation": false,
+        "asset_type": "Account",
+        "portfolios": [],
+        "technologies": [],
+        "custom_field_values": {},
+        "products": [
+          {
+            "short_name": "WREGIS.WND",
+            "name": "WREGIS Wind Rec"
+          }
+        ],
+        "hourly": false
+      },
+      "relationships": {
+        "address": {
+          "data": null
+        }
+      }
+    }
+  ],
+  "included": [
+    {
+      "id": "475",
+      "type": "address",
+      "attributes": {
+        "street_line_1": "Medicine Bow Road",
+        "street_line_2": "",
+        "locality": "Hanna",
+        "administrative_area": "Wyoming",
+        "country": "United States",
+        "postal_code": "82327",
+        "latitude": "42.036335",
+        "longitude": "-106.489472",
+        "full_address": "Medicine Bow Road, , Hanna, Wyoming, United States, 82327"
+      }
+    },
+    {
+      "id": "476",
+      "type": "address",
+      "attributes": {
+        "street_line_1": "82633 Steinle Road",
+        "street_line_2": "",
+        "locality": "Douglas",
+        "administrative_area": "Wyoming",
+        "country": "United States",
+        "postal_code": "82633",
+        "latitude": "43.319852",
+        "longitude": "-105.175388",
+        "full_address": "82633 Steinle Road, , Douglas, Wyoming, United States, 82633"
+      }
+    },
+    {
+      "id": "472",
+      "type": "address",
+      "attributes": {
+        "street_line_1": "82633 Steinle Road",
+        "street_line_2": "",
+        "locality": "Douglas",
+        "administrative_area": "Wyoming",
+        "country": "United States",
+        "postal_code": "82633",
+        "latitude": "43.319852",
+        "longitude": "-105.175388",
+        "full_address": "82633 Steinle Road, , Douglas, Wyoming, United States, 82633"
+      }
+    },
+    {
+      "id": "457",
+      "type": "address",
+      "attributes": {
+        "street_line_1": "Pryor Mountain Road",
+        "street_line_2": "",
+        "locality": "Bridger",
+        "administrative_area": "Montana",
+        "country": "United States",
+        "postal_code": "59014",
+        "latitude": "45.210381",
+        "longitude": "-108.556803",
+        "full_address": "Pryor Mountain Road, , Bridger, Montana, United States, 59014"
+      }
+    },
+    {
+      "id": "458",
+      "type": "address",
+      "attributes": {
+        "street_line_1": "Medicine Bow Road",
+        "street_line_2": "",
+        "locality": "Hanna",
+        "administrative_area": "Wyoming",
+        "country": "United States",
+        "postal_code": "82327",
+        "latitude": "42.036335",
+        "longitude": "-106.489472",
+        "full_address": "Medicine Bow Road, , Hanna, Wyoming, United States, 82327"
+      }
+    },
+    {
+      "id": "459",
+      "type": "address",
+      "attributes": {
+        "street_line_1": "East 2nd Street",
+        "street_line_2": "",
+        "locality": "Arlington",
+        "administrative_area": "Oregon",
+        "country": "United States",
+        "postal_code": "97812",
+        "latitude": "45.710479",
+        "longitude": "-120.196902",
+        "full_address": "East 2nd Street, , Arlington, Oregon, United States, 97812"
+      }
+    },
+    {
+      "id": "460",
+      "type": "address",
+      "attributes": {
+        "street_line_1": "Medicine Bow Road",
+        "street_line_2": "",
+        "locality": "Hanna",
+        "administrative_area": "Wyoming",
+        "country": "United States",
+        "postal_code": "82327",
+        "latitude": "42.036335",
+        "longitude": "-106.489472",
+        "full_address": "Medicine Bow Road, , Hanna, Wyoming, United States, 82327"
+      }
+    },
+    {
+      "id": "461",
+      "type": "address",
+      "attributes": {
+        "street_line_1": "Biglow Canyon Road",
+        "street_line_2": "",
+        "locality": "Wasco",
+        "administrative_area": "Oregon",
+        "country": "United States",
+        "postal_code": "97065",
+        "latitude": "45.64778",
+        "longitude": "-120.59023",
+        "full_address": "Biglow Canyon Road, , Wasco, Oregon, United States, 97065"
+      }
+    },
+    {
+      "id": "462",
+      "type": "address",
+      "attributes": {
+        "street_line_1": "97601 Klamath Falls-Lakeview Highway",
+        "street_line_2": "",
+        "locality": "Lakeview",
+        "administrative_area": "Oregon",
+        "country": "United States",
+        "postal_code": "97630",
+        "latitude": "42.193358",
+        "longitude": "-120.391601",
+        "full_address": "97601 Klamath Falls-Lakeview Highway, , Lakeview, Oregon, United States, 97630"
+      }
+    },
+    {
+      "id": "463",
+      "type": "address",
+      "attributes": {
+        "street_line_1": "84751 Main Street",
+        "street_line_2": "",
+        "locality": "Richfield",
+        "administrative_area": "Utah",
+        "country": "United States",
+        "postal_code": "84701",
+        "latitude": "38.784193",
+        "longitude": "-112.08428",
+        "full_address": "84751 Main Street, , Richfield, Utah, United States, 84701"
+      }
+    },
+    {
+      "id": "464",
+      "type": "address",
+      "attributes": {
+        "street_line_1": "Point of Rocks I- 80 Service Road",
+        "street_line_2": "",
+        "locality": "Superior",
+        "administrative_area": "Wyoming",
+        "country": "United States",
+        "postal_code": "82945",
+        "latitude": "41.679329",
+        "longitude": "-108.782218",
+        "full_address": "Point of Rocks I- 80 Service Road, , Superior, Wyoming, United States, 82945"
+      }
+    },
+    {
+      "id": "477",
+      "type": "address",
+      "attributes": {
+        "street_line_1": "98616 Washington Highway 142",
+        "street_line_2": "",
+        "locality": "Lyle",
+        "administrative_area": "Washington",
+        "country": "United States",
+        "postal_code": "98635",
+        "latitude": "45.739453",
+        "longitude": "-121.227969",
+        "full_address": "98616 Washington Highway 142, , Lyle, Washington, United States, 98635"
+      }
+    },
+    {
+      "id": "478",
+      "type": "address",
+      "attributes": {
+        "street_line_1": "98601 Northeast 219th Street",
+        "street_line_2": "",
+        "locality": "Ridgefield",
+        "administrative_area": "Washington",
+        "country": "United States",
+        "postal_code": "98642",
+        "latitude": "45.779577",
+        "longitude": "-122.661728",
+        "full_address": "98601 Northeast 219th Street, , Ridgefield, Washington, United States, 98642"
+      }
+    },
+    {
+      "id": "479",
+      "type": "address",
+      "attributes": {
+        "street_line_1": "Toketee Road",
+        "street_line_2": "",
+        "locality": "Idleyld Park",
+        "administrative_area": "Oregon",
+        "country": "United States",
+        "postal_code": "97447",
+        "latitude": "43.275982",
+        "longitude": "-122.451197",
+        "full_address": "Toketee Road, , Idleyld Park, Oregon, United States, 97447"
+      }
+    },
+    {
+      "id": "480",
+      "type": "address",
+      "attributes": {
+        "street_line_1": "83276 Idaho Highway 34",
+        "street_line_2": "",
+        "locality": "Soda Springs",
+        "administrative_area": "Idaho",
+        "country": "United States",
+        "postal_code": "83120",
+        "latitude": "42.996303",
+        "longitude": "-111.044082",
+        "full_address": "83276 Idaho Highway 34, , Soda Springs, Idaho, United States, 83120"
+      }
+    }
+  ]
+}

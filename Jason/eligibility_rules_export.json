@@ -1,0 +1,179 @@
+{
+  "data": [
+    {
+      "id": "85",
+      "type": "eligibility_rule",
+      "attributes": {
+        "start_date": "2025-01-01",
+        "end_date": "2025-12-31",
+        "supply_asset": "Vanttauskoski"
+      },
+      "relationships": {
+        "eligibility_groups": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "86",
+      "type": "eligibility_rule",
+      "attributes": {
+        "start_date": "2025-01-01",
+        "end_date": "2025-12-31",
+        "supply_asset": "Seitenoikea"
+      },
+      "relationships": {
+        "eligibility_groups": {
+          "data": [
+            {
+              "id": "62",
+              "type": "eligibility_group"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "87",
+      "type": "eligibility_rule",
+      "attributes": {
+        "start_date": "2026-01-01",
+        "end_date": "2026-12-31",
+        "supply_asset": "Seitenoikea"
+      },
+      "relationships": {
+        "eligibility_groups": {
+          "data": [
+            {
+              "id": "67",
+              "type": "eligibility_group"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "118",
+      "type": "eligibility_rule",
+      "attributes": {
+        "start_date": "2026-01-01",
+        "end_date": "2026-12-31",
+        "supply_asset": "Lewis River \u2014 Yale"
+      },
+      "relationships": {
+        "eligibility_groups": {
+          "data": [
+            {
+              "id": "102",
+              "type": "eligibility_group"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "119",
+      "type": "eligibility_rule",
+      "attributes": {
+        "start_date": "2026-01-01",
+        "end_date": "2026-12-31",
+        "supply_asset": "Lewis River \u2014 Swift No. 1"
+      },
+      "relationships": {
+        "eligibility_groups": {
+          "data": [
+            {
+              "id": "102",
+              "type": "eligibility_group"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "120",
+      "type": "eligibility_rule",
+      "attributes": {
+        "start_date": "2026-01-01",
+        "end_date": "2026-12-31",
+        "supply_asset": "North Umpqua Hydroelectric Project"
+      },
+      "relationships": {
+        "eligibility_groups": {
+          "data": [
+            {
+              "id": "102",
+              "type": "eligibility_group"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "121",
+      "type": "eligibility_rule",
+      "attributes": {
+        "start_date": "2026-01-01",
+        "end_date": "2026-12-31",
+        "supply_asset": "Bear River Hydroelectric Project"
+      },
+      "relationships": {
+        "eligibility_groups": {
+          "data": [
+            {
+              "id": "102",
+              "type": "eligibility_group"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "122",
+      "type": "eligibility_rule",
+      "attributes": {
+        "start_date": "2026-01-01",
+        "end_date": "2026-12-31",
+        "supply_asset": "Ekola Flats Wind Farm"
+      },
+      "relationships": {
+        "eligibility_groups": {
+          "data": [
+            {
+              "id": "101",
+              "type": "eligibility_group"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "123",
+      "type": "eligibility_rule",
+      "attributes": {
+        "start_date": "2026-01-01",
+        "end_date": "2026-12-31",
+        "supply_asset": "Cedar Springs I Wind Farm"
+      },
+      "relationships": {
+        "eligibility_groups": {
+          "data": [
+            {
+              "id": "101",
+              "type": "eligibility_group"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "meta": {
+    "total_records": 9,
+    "next_page_starting_item": null
+  },
+  "links": {
+    "self": "https://demo.molecule.io/api/v2/inventory/eligibility_rules",
+    "last": "https://demo.molecule.io/api/v2/inventory/eligibility_rules?page=1",
+    "next": null
+  }
+}

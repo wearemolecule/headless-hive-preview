@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": "432",
+      "type": "allocation",
+      "attributes": {
+        "effective_end": null,
+        "effective_start": "2026-04-23",
+        "finalized_at": null,
+        "finalized": false,
+        "fulfillment_date": "2026-02-27",
+        "obligation_asset_id": 473,
+        "obligation_asset_name": "WREGIS:WIND:2026",
+        "obligation_commodity_id": 60,
+        "obligation_commodity_name": "REC",
+        "obligation_product_id": 203846,
+        "obligation_product_name": "WREGIS Wind Rec",
+        "obligation_product_short_name": "WREGIS.WND",
+        "obligation_ticket_id": 47156,
+        "obligation_vintage": null,
+        "source": "system",
+        "supply_asset_id": 458,
+        "supply_asset_name": "Ekola Flats Wind Farm",
+        "supply_commodity_id": 60,
+        "supply_commodity_name": "REC",
+        "supply_product_id": 203846,
+        "supply_product_name": "WREGIS Wind Rec",
+        "supply_product_short_name": "WREGIS.WND",
+        "supply_ticket_id": null,
+        "supply_vintage": "2026-01-31",
+        "volume": "900.0"
+      }
+    }
+  ],
+  "meta": {
+    "total_records": 1,
+    "next_page_starting_item": null
+  },
+  "links": {
+    "self": "https://demo.molecule.io/api/v2/inventory/allocations?obligation_asset=WREGIS%3AWIND%3A2026",
+    "last": "https://demo.molecule.io/api/v2/inventory/allocations?obligation_asset=WREGIS%3AWIND%3A2026&page=1",
+    "next": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "id": "47156",
+      "type": "obligation",
+      "attributes": {
+        "volume": "-1500.0",
+        "fulfillment_date": "2026-02-27",
+        "asset_id": 473,
+        "asset_name": "WREGIS:WIND:2026",
+        "commodity_name": "REC",
+        "product_name": "WREGIS Wind Rec",
+        "product_short_name": "WREGIS.WND"
+      }
+    }
+  ]
+}
