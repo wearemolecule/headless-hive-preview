@@ -2,13 +2,13 @@
 
 
 
-A reference implementation demonstrating how to query the [Molecule](https://www.molecule.io) REST API using Python. This repository provides working sample scripts and example output payloads for clients who want to integrate with Molecule's HIVE platform or build custom extensions on top of the Molecule API.
+A reference implementation demonstrating how to query the [Molecule](https://www.molecule.io) REST API using Python. This repository provides working sample scripts and example output payloads for clients who want to integrate with Molecule's Hive platform or build custom extensions on top of the Molecule API.
 
 ---
 
 ## Overview
 
-HIVE is Molecule's front-end trading and risk platform. For clients who want to extend HIVE or build their own tooling, Molecule exposes a comprehensive REST API at `/api/v2`. This repo shows real request/response examples for the most common data domains:
+Hive is Molecule's front-end trading and risk platform. For clients who want to extend Hive or build their own tooling, Molecule exposes a comprehensive REST API at `/api/v2`. This repo shows real request/response examples for the most common data domains:
 
 - **Allocations** — position allocation records
 - **Books** — trading book hierarchy
