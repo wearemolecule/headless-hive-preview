@@ -1,6 +1,4 @@
-# headless-hive-preview
-
-
+# Headless Hive
 
 A reference implementation demonstrating how to query the [Molecule](https://www.molecule.io) REST API using Python. This repository provides working sample scripts and example output payloads for clients who want to integrate with Molecule's Hive platform or build custom extensions on top of the Molecule API.
 
